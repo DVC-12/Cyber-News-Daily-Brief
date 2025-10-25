@@ -1,0 +1,9 @@
+{
+  "feeds": [
+    "https://thehackernews.com/feeds/posts/default",
+    "https://www.bleepingcomputer.com/feed/",
+    "https://krebsonsecurity.com/feed/",
+    "https://www.darkreading.com/rss_simple.asp",
+    "https://www.cisa.gov/news.xml"
+  ]
+}
